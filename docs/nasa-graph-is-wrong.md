@@ -1,5 +1,5 @@
 ---
-title: <Claim Analysis>
+title: Claim Analysis
 layout: default
 nav_order: 1
 ---
